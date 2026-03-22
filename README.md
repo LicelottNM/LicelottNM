@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Licelott
-- 👀 I’m interested in improving my programming skills with Python, Sql and R
-- 🌱 I’m currently learning languajes such as English and Japanese
-- 💞️ I’m looking to collaborate in the Finance area
-- 📫 Send me Email to nlicelott@gmail.com
-- ⚡ Fun fact: I really like Animals and helping others with their doubts.
+👋 Hi, I’m @Licelott
+Data Analyst focused on turning data into business insights.
+
+💻 Skills: Python, SQL, Power BI  
+📊 Experience in: Customer Retention, Sales Analysis, E-commerce  
+📍 Based in Dominican Republic  
+
+🚀 Currently building data projects focused on real business problems.
 
 <!---
 LicelottNM/LicelottNM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
